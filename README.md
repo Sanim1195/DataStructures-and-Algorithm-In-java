@@ -6,35 +6,6 @@
  
  
  
-_________________________________________________________ 
- 
- IX730151 Year Three Special Topic 
-Task 4   
-_________________________________________________________ 
-Study Block 3: 	2022 
-Due date to be handed in: 	Tuesday 13th Sept 9 am  
-Submission: 	Upload soft copy to Moodle                                               
-Contact Lecturer:   	 	Tariq Khan 
-Designed by: 	 	 	Farhad Mehdipour 
-Weighting/Contribution:   	20% to final marks 
-Learning outcomes covered: 	1 
-
-
-
-
-Submitted by: Sanim Pokhrel_ 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
 What is Dijstra’s Algorithm? 
 Dijkstra’s algorithm helps us to find the shortest path between nodes in a graph from a node (source node) to all other nodes in a graph. This algorithm is most popularly used in GPS systems to find the shortest path between current location and destination. 
 
